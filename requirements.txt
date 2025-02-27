@@ -46,7 +46,7 @@ prompt_toolkit==3.0.50
 pure_eval==0.2.3
 Pygments==2.19.1
 python-dateutil==2.9.0.post0
-pywin32==308
+pywin32==307
 PyYAML==6.0.2
 pyzmq==26.2.1
 referencing==0.36.2
